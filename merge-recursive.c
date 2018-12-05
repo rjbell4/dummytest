@@ -3649,3 +3649,4 @@ int parse_merge_opt(struct merge_options *o, const char *s)
 		return -1;
 	return 0;
 }
+// This is a comment on an M file

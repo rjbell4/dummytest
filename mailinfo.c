@@ -1243,3 +1243,4 @@ void clear_mailinfo(struct mailinfo *mi)
 
 	strbuf_release(&mi->log_message);
 }
+// This is a comment on an M file

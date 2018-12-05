@@ -350,3 +350,4 @@ void shift_tree_by(const struct object_id *hash1,
 		 */
 		oidcpy(shifted, &sub2);
 }
+// This is a comment on an M file

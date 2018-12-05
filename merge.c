@@ -107,3 +107,4 @@ int checkout_fast_forward(struct repository *r,
 		return error(_("unable to write new index file"));
 	return 0;
 }
+// This is a comment on an M file

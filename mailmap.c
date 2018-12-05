@@ -361,3 +361,4 @@ int map_user(struct string_list *map,
 	debug_mm("map_user:  --\n");
 	return 0;
 }
+// This is a comment on an M file
