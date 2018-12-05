@@ -293,3 +293,4 @@ const char *skip_range_arg(const char *arg, struct index_state *istate)
 
 	return arg;
 }
+// This is a comment on an L file

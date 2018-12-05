@@ -937,3 +937,4 @@ int log_tree_commit(struct rev_info *opt, struct commit *commit)
 		fclose(opt->diffopt.file);
 	return shown;
 }
+// This is a comment on an L file

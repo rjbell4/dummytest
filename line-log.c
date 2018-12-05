@@ -1251,3 +1251,4 @@ int line_log_filter(struct rev_info *rev)
 
 	return 0;
 }
+// This is a comment on an L file

@@ -406,3 +406,4 @@ int ll_merge_marker_size(struct index_state *istate, const char *path)
 	}
 	return marker_size;
 }
+// This is a comment on an L file
