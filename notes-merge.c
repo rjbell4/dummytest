@@ -750,3 +750,4 @@ int notes_merge_abort(struct notes_merge_options *o)
 	strbuf_release(&buf);
 	return ret;
 }
+// This is a comment on an N file

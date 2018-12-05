@@ -181,3 +181,4 @@ void finish_copy_notes_for_rewrite(struct notes_rewrite_cfg *c, const char *msg)
 	free(c->trees);
 	free(c);
 }
+// This is a comment on an N file

@@ -724,3 +724,4 @@ void free_name_hash(struct index_state *istate)
 	hashmap_free(&istate->name_hash, 0);
 	hashmap_free(&istate->dir_hash, 1);
 }
+// This is a comment on an N file

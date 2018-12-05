@@ -1309,3 +1309,4 @@ void expand_loose_notes_ref(struct strbuf *sb)
 		expand_notes_ref(sb);
 	}
 }
+// This is a comment on an N file
